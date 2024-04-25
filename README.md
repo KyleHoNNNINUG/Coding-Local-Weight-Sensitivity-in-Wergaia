@@ -9,7 +9,7 @@ _ˈ_ denotes primary stress; _ˌ_ denotes secondary stress.
 ## Background
 Wergaia is an Aboriginal Australian language, which has the stressing pattern that
  * stresses on odd-indexed syllables
- * unstresses the final syllable (even if it is odd-indexed)
+ * unstresses the final syllable (even if it is odd-indexed) if it does not have a _coda_
  * has the first/leftmost stress as _primary stress_ and the rest as _secondary stress_
 
 A syllable is defined as
