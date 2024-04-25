@@ -28,4 +28,4 @@ Continuing with _delguna_ again for the code, it would print _ˈdelguna_ since
 More example data is provided in _Stress.pdf_.
 
 ## Publication
-The code is published in Volume 12 Issue 4 (2023) of the Journal of Student Research - High School Edition. However, there are incorrect pieces of information on the published version, which is requested to but still not resolved up to this update. Therefore, the file and link is not provided here yet.
+The code is published in Volume 12 Issue 4 (2023) of the Journal of Student Research - High School Edition. However, there are incorrect pieces of information on the published version, which is requested to (2024/3/31) but still not resolved up to this update (2024/4/25). Therefore, the file and link is not provided here yet.
