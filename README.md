@@ -1,4 +1,4 @@
-# Linguistic Analysis on Wergaia
+# Coding Local Weight-Sensitivity in Wergaia
 ## Function
 This code takes a Wergaia word without any marks as input and prints the word with correct stress markings.
 
